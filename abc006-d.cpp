@@ -58,4 +58,5 @@ int main(void){
 
 	printf("%d\n", n - LIS(n));
 	return 0;
+	
 }
