@@ -61,4 +61,5 @@ int main(void){
 	int num = 0;//numは議員の番号を示す
 	dfs(v, num);
 	printf("%d\n", ans);
+	
 }
